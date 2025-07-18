@@ -51,7 +51,7 @@ export default function App() {
     <SafeAreaView style={styles.container}>
       <View style={styles.header}>
         <Text style={styles.headerText}>
-          Displaying hotels and restaurants near you...
+          Displaying Drinks and Restaurants near you...
         </Text>
       </View>
 
