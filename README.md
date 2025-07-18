@@ -9,3 +9,13 @@ Sends the location to Geoapify API to retrieve a list of nearby restaurants and 
 Maps and displays these places using markers.
 
 Tapping a marker shows a callout with place details.
+
+Examples:
+
+![alt text](3.jpg)
+
+
+![alt text](1.jpg)
+
+
+![alt text](2.jpg)
