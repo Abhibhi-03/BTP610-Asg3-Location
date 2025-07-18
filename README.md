@@ -12,10 +12,10 @@ Tapping a marker shows a callout with place details.
 
 Examples:
 
-![alt text](3.jpg)
+![1](https://github.com/user-attachments/assets/8327772f-72d7-4331-9c88-f65124bd5094)
 
 
-![alt text](1.jpg)
+![2](https://github.com/user-attachments/assets/129369c3-08c7-4d35-9e07-44901d523246)
 
 
-![alt text](2.jpg)
+![3](https://github.com/user-attachments/assets/27b9cd50-ef93-4359-aa34-02fbb517558a)
