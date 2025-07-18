@@ -16,7 +16,7 @@ export default function App() {
   const [location, setLocation] = useState(null);
   const [poiData, setPoiData] = useState([]);
 
-  const GEOAPIFY_API_KEY = "bfc67c01aadf4b9b9e3d83004a49012f";
+  const GEOAPIFY_API_KEY = "<API KEY HERE>";
   const CATEGORIES = "commercial.food_and_drink, catering.restaurant"; //restuarants and dtinks API locations
   const RADIUS_METERS = 100000; //100kms
   const RESULT_LIMIT = 50; //50 results
